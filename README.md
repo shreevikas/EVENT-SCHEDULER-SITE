@@ -9,5 +9,5 @@ Open phpmyadmin
 
 Create Database event_scheduler.
 Import database event_scheduler.sql(file available inside the pacakege)
-Open Your browser put inside browser “http://localhost/event_scheduler/index.html”
+Open Your browser put inside browser http://localhost/event_scheduler/index.html
 And it takes to the main page of the event scheduler site
